@@ -1,4 +1,6 @@
-# chatkit
+# Simple chat with Vue JS and Pusher ChatKit
+# Based on https://www.sitepoint.com/pusher-vue-real-time-chat-app/
+# Added: creating and deleting channels, add members to the channel
 
 ## Project setup
 ```
